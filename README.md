@@ -1,0 +1,3 @@
+# Python practice
+
+PYTHON CRUD API DJANGO FRAMEWORK
